@@ -2,26 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+.header-bg {
+  background-image: url("/header.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.gradient-border {
+  display: inline-block;
+  background: linear-gradient(
+    90deg,
+    rgba(243, 40, 52, 1) 0%,
+    rgba(187, 34, 172, 1) 100%
+  );
+  border-radius: 0.375rem; /* match the border radius of the input */
+  padding: 1px; /* this will be the width of your border */
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.gradient-border input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: inherit;
 }
