@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Text+Me+One&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,6 +8,9 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  font-family: "Text Me One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .gradient-border {
@@ -20,9 +24,8 @@
   padding: 1px; /* this will be the width of your border */
 }
 
-.gradient-border input {
-  width: 100%;
+/* .gradient-border input {
   height: 100%;
   border: none;
   border-radius: inherit;
-}
+} */
