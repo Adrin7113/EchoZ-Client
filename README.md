@@ -23,6 +23,7 @@ ECHOZ is an innovative educational app designed to revolutionize learning for au
 4. *Learning*: Children engage with the audio-visual content, enhancing understanding and retention.
 
 ## 🚀 Why ECHOZ?
+![WhatsApp Image 2024-09-08 at 15 56 31_3013a729](https://github.com/user-attachments/assets/ec060826-41c3-4fda-9177-9ec2a702adf8)
 
 - *Accelerated Learning*: Research shows autistic individuals often learn faster and more effectively through audio-visual methods.
 - *Engaging Content*: Keeps children interested and focused on the learning material.
