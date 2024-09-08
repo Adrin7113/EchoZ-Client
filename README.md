@@ -1,8 +1,21 @@
+# App Preview
+![WhatsApp Image 2024-09-08 at 16 00 17_5acbebff](https://github.com/user-attachments/assets/3d585c04-fa00-4159-a5d2-84cc236599a5)
+
+
+
 ![ECHOZ Banner](https://i.imgur.com/ACKWXdE.png)
 
 # ECHOZ: Empowering Autistic Children Through Music and Visual Learning
 
 ## 🎵 About ECHOZ
+
+## This app is mainly comprised of 3 componenet
+ - Frontend: Interactive Frontend UI/UX built with NEXT JS and TawilWind
+            [Frontend](https://github.com/Adrin7113/EchoZ-Client)
+ - Backend : Server components with all the LLM(OPENAI, DALLE E, GROQ OLLAMA) actions
+            [Backend](https://github.com/Adrin7113/EchoZ)
+ - API : Custom Api created using NextJS and SUNO cookie
+         [SUNO api](https://github.com/Xanthium7/suno-api)
 
 ECHOZ is an innovative educational app designed to revolutionize learning for autistic children by harnessing the power of music and visual aids. Our mission is to create a more inclusive and effective learning environment, helping autistic children achieve their full potential.
 
