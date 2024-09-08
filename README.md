@@ -48,6 +48,8 @@ ECHOZ is an innovative educational app designed to revolutionize learning for au
 
 - Autistic children of all ages
 - Parents and caregivers
+- Individuals with ADHD
+- People With Lack of Attention Span
 - Special education teachers
 - Therapists and healthcare professionals working with autistic individuals
 
@@ -60,4 +62,9 @@ We're continuously working to improve ECHOZ and expand its capabilities. Stay tu
 - Expanded content library
 - Community features for sharing and collaborating
 
+## 🔍Research Links
+- https://www.greatertorontomusic.ca/post/can-music-lessons-benefit-kids-with-adhd-and-autism
+- https://theradiantspectrum.com/using-music-to-teach-a-non-verbal-autistic-child/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10221503/
+- https://raisingchildren.net.au/autism/therapies-guide/music-therapy
 ---
