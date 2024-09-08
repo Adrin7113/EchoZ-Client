@@ -1,8 +1,9 @@
-# App Preview
-![WhatsApp Image 2024-09-08 at 16 00 17_5acbebff](https://github.com/user-attachments/assets/3d585c04-fa00-4159-a5d2-84cc236599a5)
 
 # ECHOZ: Empowering Autistic Children Through Music and Visual Learning
 
+
+![WhatsApp Image 2024-09-08 at 16 00 17_5acbebff](https://github.com/user-attachments/assets/3d585c04-fa00-4159-a5d2-84cc236599a5)
+# App Preview
 
 ![ECHOZ Banner](https://i.imgur.com/ACKWXdE.png)
 
