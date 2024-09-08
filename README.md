@@ -29,6 +29,13 @@ ECHOZ is an innovative educational app designed to revolutionize learning for au
 
 ## 💡 How It Works
 
+### Eaxmple Audio Generated for prompt "Sing me a song about the laws of Thermodynamic"
+
+
+https://github.com/user-attachments/assets/9dfa1767-2963-4796-8755-eb78489c09f4
+
+
+
 ![ECHOZ Process](https://i.imgur.com/ZDoi8n8.png)
 
 1. *Input*: Upload a simple concept or PDF document.
