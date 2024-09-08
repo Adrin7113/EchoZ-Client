@@ -59,12 +59,4 @@ We're continuously working to improve ECHOZ and expand its capabilities. Stay tu
 - Expanded content library
 - Community features for sharing and collaborating
 
-## 🤝 Join Us in Making a Difference
-
-ECHOZ is more than just an app – it's a movement to change how autistic children learn and help them achieve more. Together, we can create a world where every child has the opportunity to learn in a way that works best for them.
-
-Download ECHOZ today and start your journey towards a more engaging, effective, and enjoyable learning experience!
-
 ---
-
-For more information, support, or to get involved, please visit our website or contact our team at support@echoz.com.
